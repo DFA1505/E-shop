@@ -52,7 +52,7 @@ const Footer = () => {
                         <div>
                             <div className="md:flex justify-center gap-3">
                                 <FaLocationArrow className=''/>
-                                <p>São Pedro da Aldeia, Oslo</p>
+                                <p>Nova Friburgo, Rio de Janeiro</p>
                             </div>
                             <div className='md:flex justify-center gap-3 mt-6 mb-5'>
                                 <FaMobileAlt/>
